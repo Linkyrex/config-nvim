@@ -12,7 +12,6 @@
 ✍🏼 Blog Post: [How I Setup Neovim On My Mac To Make It AMAZING In 2024](https://josean.com/posts/how-to-setup-neovim-2024)
 
 _If you clone the repo into your machine and use the config by copying .config/nvim to your home folder, wait for the plugins, language servers and parsers to install with lazy.nvim, Mason and nvim-treesitter.
-If you are opening a lua file or another file I have language servers configured for, like html, css or javascript/typescript, you might also get an error saying that the server failed to start. This is because Mason hasn't installed it yet. Press enter to continue, Mason will automatically install it._
 
 ### Relevant Files
 
